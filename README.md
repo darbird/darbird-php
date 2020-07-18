@@ -1,12 +1,11 @@
 # DarbirdSMS API Client
 
-### Developed by Adenagbe Emmanuel (http:darbird.com)
-### Email: emmadenagbe@gmail.com
+#### Developed by Adenagbe Emmanuel (https://darbird.com)
+#### Email: emmadenagbe@gmail.com
 
 
 Open `config.test.php` and change `AUTH_KEY` , `CUSID` and `SENDER_ID` value  
-Note: A phone number in full international format includes a plus sign (+) followed by the country code, city code, and local phone number.
-
+Note: A phone number in full international format includes a plus sign (+) followed by the country code.
 
 ## Send SMS
 

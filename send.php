@@ -1,6 +1,6 @@
 <?php
 
-// Generate OTP
+// SEND YOUR FIRST MESSAGE
 // ===========================
 
 require_once('autoload.php');
@@ -10,7 +10,7 @@ $apiClient = new DarbirdClass(CUSID,AUTH_KEY,SENDERID);
 try {
 
 	$lifetime = 18800; // in second
-	$response = $apiClient->sendSMS("+23408103141424","I love you Ademide");
+	$response = $apiClient->sendSMS("+234081xxxxxxx","Welcome to Darbird");
 	if (!isset($response))
 	{
 		throw new Exception("Unable to generate an OTP");

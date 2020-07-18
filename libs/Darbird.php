@@ -1,9 +1,9 @@
 <?php
 /**
  * @package        Darbird SMS Api
- * @author        Darbird (developers@darbird.com)
- * @copyright    Copyright (c) 2019, Darbird.
- * @link        http://darbird.com
+ * @author         Darbird (developers@darbird.com)
+ * @copyright      Copyright (c) 2019, Darbird.
+ * @link           http://darbird.com
  */
 
 /**
