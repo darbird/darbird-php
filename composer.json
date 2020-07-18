@@ -3,7 +3,7 @@
   "description": "SMS API is build for Darbird SMS - Bulk SMS Application For Marketing",
   "type": "library",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0",
   "minimum-stability": "stable",
   "authors": [
     {
