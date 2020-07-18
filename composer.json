@@ -1,0 +1,22 @@
+{
+  "name": "darbird/darbird-php",
+  "description": "SMS API is build for Darbird SMS - Bulk SMS Application For Marketing",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.1",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Adenagbe",
+      "email": "emmadenagbe@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "libs/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
